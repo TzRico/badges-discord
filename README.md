@@ -9,7 +9,7 @@ Os Emblemas do discord são conquistas épicas para deixar seu perfil legal. Ele
 | Título | Badge | Obtível? | Ganho por |
 | --- | --- | --- | --- |
 Supports Commands | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> | ✅ (Só bots) | Bot deve usar [application commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) para Ganhar Este Emblema. |
-HypeSquad Events| <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | O usuário deve Representar o Discord em Eventos Especiais Para Obtê-lo. [Applications currently closed](https://discord.com/hypesquad). |
+Eventos do HypeSquada | <img  src="/assets/hypesquadevents.svg" href="https://discord.com/assets/e666a84a7a5ea2abbbfa73adf22e627b.svg" > | ❌ | O usuário deve Representar o Discord em Eventos Especiais Para Obtê-lo. [Applications currently closed](https://discord.com/hypesquad). |
 HypeSquad Brilliance | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | ✅ | Tornando um HypeSquad [Test](https://discord.com/hypesquad). |
 HypeSquad Bravery | <img  src="/assets/hypesquadbravery.svg" href="https://discord.com/assets/efcc751513ec434ea4275ecda4f61136.svg" > | ✅ | Tornando um HypeSquad [Test](https://discord.com/hypesquad). |
 HypeSquad Balance | <img  src="/assets/hypesquadbalance.svg" href="https://discord.com/assets/9f00b18e292e10fc0ae84ff5332e8b0b.svg" > | ✅ | Tornando um HypeSquad [Test](https://discord.com/hypesquad). |
