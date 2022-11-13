@@ -2,7 +2,7 @@
 
 Uma coleção com todos os emblemas do discord!
 
-Os emblemas do discord são conquistas épicas para deixar seu perfil legal. Eles são dados pelo discord por vários motivos, como ser um nitro booster, ser um parceiro do discord ou ser um membro da equipe do discord. Esta coleção apresenta todos os emblemas no discord para contas de equipe/bot e contas de usuário. Isso foi feito por **Mezo#0001**
+Os Emblemas do discord são conquistas épicas para deixar seu perfil legal. Eles são dados pelo discord por vários motivos, como ser um nitro booster, ser um parceiro do discord ou ser um membro da equipe do discord. Esta coleção apresenta todos os emblemas no discord para contas de equipe/bot e contas de usuário. Isso foi feito por **Mezo#0001**
 
 ## Emblemas Gerais
 
@@ -28,7 +28,7 @@ Caçador de Bugs no Discord (Dourada) | <img  src="/assets/discordbughunter2.svg
 \*\* Atualmente, o Programa de Testadores está Disponível Apenas para um Grupo Seleto de Pessoas
 
 ## Níveis Nitro Boost
-| Title | Badge | Earned by |
+| Título | Badge | Ganho por |
 | --- | --- | --- |
 Server booster (1 Mês) | <img  src="/assets/boosts/discordboost1.svg" href="https://discord.com/assets/ca18353be0e57a2b3b3132fa1c08d6b4.svg" > | Impulsionando um Servidor do Discord por 1 Mês. |
 Server booster (2 Meses) | <img  src="/assets/boosts/discordboost2.svg" href="https://discord.com/assets/22f99ed6e34eaca48950254c70f8fe8d.svg" > | Impulsionando um Servidor do Discord por 2 meses. |
@@ -44,7 +44,7 @@ Server booster (2 Anos) | <img  src="/assets/boosts/discordboost9.svg" href="htt
 
 Alguns emblemas mudaram ao longo do tempo, aqui está uma lista de todas as alterações.
 
-| Badge | Old | New |
+| Badge | Antiga | Nova |
 | --- | --- | --- |
-| Desenvolvedor de bot verificado pioneiro | Desenvolvedor de bot verificado | **Early** Desenvolvedor de bot verificado |
-| Discord Partner | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
+| Desenvolvedor de bot verificado pioneiro | Desenvolvedor de bot verificado | Desenvolvedor de bot verificado **Pioneiro** |
+| Parceiro do Discord | <img  src="/assets/olddiscoardpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
