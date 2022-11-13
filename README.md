@@ -2,7 +2,7 @@
 
 Uma coleção com todos os emblemas do discord!
 
-Os distintivos do discord são conquistas épicas para deixar seu perfil legal. Eles são dados pelo discord por vários motivos, como ser um nitro booster, ser um parceiro do discord ou ser um membro da equipe do discord. Esta coleção apresenta todos os emblemas no discord para contas de equipe/bot e contas de usuário. Isso foi feito por **Mezo#0001**
+Os emblemas do discord são conquistas épicas para deixar seu perfil legal. Eles são dados pelo discord por vários motivos, como ser um nitro booster, ser um parceiro do discord ou ser um membro da equipe do discord. Esta coleção apresenta todos os emblemas no discord para contas de equipe/bot e contas de usuário. Isso foi feito por **Mezo#0001**
 
 ## Emblemas Gerais
 
