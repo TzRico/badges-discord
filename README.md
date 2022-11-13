@@ -47,4 +47,4 @@ Alguns emblemas mudaram ao longo do tempo, aqui está uma lista de todas as alte
 | Badge | Antiga | Nova |
 | --- | --- | --- |
 | Desenvolvedor de bot verificado pioneiro | Desenvolvedor de bot verificado | Desenvolvedor de bot verificado **Pioneiro** |
-| Parceiro do Discord | <img  src="/assets/olddiscoardpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
+| Parceiro do Discord | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
