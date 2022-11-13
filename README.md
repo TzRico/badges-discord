@@ -20,8 +20,8 @@ Desenvolvedor Verificado de Bots Pioneiro | <img  src="/assets/discordbotdev.svg
 Desenvolvedor Ativo | <img  src="/assets/activedeveloper.svg" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" > | ✅ | Possuir Pelo Menos 1 Aplicativo Ativo (app). Para que seu Aplicativo Seja Considerado Ativo, ele Precisará ter Executado Algum Comando Global nos Últimos 30 Dias.|
 Discord Nitro | <img  src="/assets/discordnitro.svg" href="https://discord.com/assets/24d05f3b46a110e538674edbac0db4cd.svg" > | ✅ | Ter uma Assinatura Válida do Discord Nitro ou do Discord Nitro Basic. |
 Apoiador Inicial | <img  src="/assets/discordearlysupporter.svg" href="https://discord.com/assets/b802e9af134ff492276d94220e36ec5c.svg" > | ❌ | Se você teve uma Transação Bem-Sucedida no Discord Antes de Quarta-Feira, 10 de Outubro de 2018, 19h20 PDT. |
-Caçador de Bugs no Discord (Normal) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Alcance o nível "caçador de bugs" no programa Discord Testers.**  |
-Caçador de Bugs no Discord (Dourada) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Alcance o nível "estudioso de bugs" no programa Discord Testers.**  |
+Caçador de Bugs no Discord (Normal) | <img  src="/assets/discordbughunter1.svg" href="https://discord.com/assets/8353d89b529e13365c415aef08d1d1f4.svg" > | ✅ | Alcance o nível "caçador de bugs" no programa **Discord Testers.**  |
+Caçador de Bugs no Discord (Dourada) | <img  src="/assets/discordbughunter2.svg" href="https://discord.com/assets/f599063762165e0d23e8b11b684765a8.svg" > | ✅ | Alcance o nível "estudioso de bugs" no programa **Discord Testers.**  |
 
 \* Ser Ativo na Comunidade de Administradores não garante o Emblema
 
@@ -40,7 +40,7 @@ Server booster (1 Ano & 3 Meses) | <img  src="/assets/boosts/discordboost7.svg" 
 Server booster (1 Ano & 6 Meses) | <img  src="/assets/boosts/discordboost8.svg" href="https://discord.com/assets/c6d88d1d12afe03bdc4ebb747f8d196b.svg" > | Impulsionando um Servidor do Discord por 1 Ano & 6 Meses. |
 Server booster (2 Anos) | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | Impulsionando um Servidor do Discord por 2 Anos. |
 
-## Log de Mudanças Dos Emblemas
+## Registro de Mudanças Dos Emblemas
 
 Alguns emblemas mudaram ao longo do tempo, aqui está uma lista de todas as alterações.
 
