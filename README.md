@@ -54,3 +54,9 @@ Alguns emblemas mudaram ao longo do tempo, aqui está uma lista de todas as alte
 ﹒[Discord](https://discord.com/users/472756345909805059)
 ﹒[Servidor do discord](https://discord.gg/giflandia)
 ﹒[Steam](https://steamcommunity.com/id/Tzrico/)
+
+> ⭐ Sinta-se à vontade para marcar o repositório como estrela se isso o ajudou! ;)
+
+----
+
+> BadgeScraperV2 by Tz está licenciado sob Attribution 4.0 International
