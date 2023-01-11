@@ -48,3 +48,9 @@ Alguns emblemas mudaram ao longo do tempo, aqui está uma lista de todas as alte
 | --- | --- | --- |
 | Desenvolvedor de bot verificado pioneiro | Desenvolvedor de bot verificado | Desenvolvedor de bot verificado **Pioneiro** |
 | Parceiro do Discord | <img  src="/assets/olddiscordpartner.png" style="width: 140px;" > | <img src="/assets/discordpartner.svg">  |
+
+## Contate-me
+
+﹒[Discord](https://discord.com/users/472756345909805059)
+﹒[Servidor do discord](https://discord.gg/giflandia)
+﹒[Steam](https://steamcommunity.com/id/Tzrico/)
