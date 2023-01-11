@@ -59,4 +59,4 @@ Alguns emblemas mudaram ao longo do tempo, aqui está uma lista de todas as alte
 
 ----
 
-> BadgeScraperV2 by Tz está licenciado sob Attribution 4.0 International
+> BadgesDiscord by Tz está licenciado sob Attribution 4.0 International
